@@ -3,7 +3,7 @@ This documentation is for the stable release of Orion Library.
 
 ## Booting the Library
 ```lua
-local OrionLib = local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/MrGalaxy10/orion-library/main/PrivateSource",true))()
+local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/MrGalaxy10/orion-library/main/PrivateSource",true))()
 ```
 
 
